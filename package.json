@@ -19,7 +19,6 @@
     "next": "15.0.3",
     "react": "19.0.0-rc-66855b96-20241106",
     "react-canvas-confetti": "^1.3.0",
-    "react-confetti": "^6.1.0",
     "react-dom": "19.0.0-rc-66855b96-20241106",
     "timeago.js": "^4.0.2",
     "zustand": "^5.0.1"
