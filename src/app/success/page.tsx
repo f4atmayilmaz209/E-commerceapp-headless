@@ -15,7 +15,7 @@ const SuccessPage=()=>{
         if(!orderId) return;
 
         const timer=setTimeout(()=>{
-            router.push("/orders/"+orderId) 
+            router.push("/orders/"+orderId)  
         },5000)
 
         return ()=>{
